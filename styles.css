@@ -201,4 +201,12 @@ html {
     header nav {
         display: none;
     }
+
+    .container-footer {
+        flex-direction: column;
+    }
+
+    .footer-social {
+        margin-top: 10px;
+    }
 }
